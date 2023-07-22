@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# Solidity Project for ICO Crowdsale
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+It include the ERC-20 & ICO smart contract code and basic test js file.
 
-Try running some of the following tasks:
+You can find fronend code for this smart contract on:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+https://github.com/cryptoguy55/ICO-frontend
+
 ```
